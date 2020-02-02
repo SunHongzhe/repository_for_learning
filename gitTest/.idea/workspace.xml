@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="163db9c6-a4b7-435e-8f02-6c7216988360" name="Default Changelist" comment="">
+    <list default="true" id="163db9c6-a4b7-435e-8f02-6c7216988360" name="Default Changelist" comment="first edit by test">
       <change afterPath="D:/idea_clone_preject/gitClone" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
@@ -77,7 +77,7 @@
       <option name="presentableId" value="Default" />
       <updated>1580669826631</updated>
       <workItem from="1580669827757" duration="1161000" />
-      <workItem from="1580671000639" duration="1780000" />
+      <workItem from="1580671000639" duration="2083000" />
     </task>
     <task id="LOCAL-00001" summary="first commit First.java">
       <created>1580669910461</created>
