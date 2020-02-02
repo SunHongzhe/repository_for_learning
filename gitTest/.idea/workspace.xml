@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="163db9c6-a4b7-435e-8f02-6c7216988360" name="Default Changelist" comment="">
+    <list default="true" id="163db9c6-a4b7-435e-8f02-6c7216988360" name="Default Changelist" comment="edit by master">
       <change afterPath="$PROJECT_DIR$/../repository_for_learning" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../repository_for_learning/gitTest/src/com/zuikc/First.java" beforeDir="false" afterPath="$PROJECT_DIR$/../repository_for_learning/gitTest/src/com/zuikc/First.java" afterDir="false" />
     </list>
@@ -68,7 +68,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1580669826631</updated>
-      <workItem from="1580669827757" duration="768000" />
+      <workItem from="1580669827757" duration="1161000" />
     </task>
     <task id="LOCAL-00001" summary="first commit First.java">
       <created>1580669910461</created>
@@ -104,6 +104,7 @@
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="first commit First.java" />
-    <option name="LAST_COMMIT_MESSAGE" value="first commit First.java" />
+    <MESSAGE value="edit by master" />
+    <option name="LAST_COMMIT_MESSAGE" value="edit by master" />
   </component>
 </project>

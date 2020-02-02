@@ -17,6 +17,7 @@ public class First {
         System.out.println("test git ...");
         System.out.println("test git ...");
         System.out.println("test git ...");
+        System.out.println("test git ...add by gitTest");
         System.out.println("test git add by clone...");
     }
 
