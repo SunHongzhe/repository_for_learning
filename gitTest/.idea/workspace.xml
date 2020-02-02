@@ -71,7 +71,7 @@
       <option name="presentableId" value="Default" />
       <updated>1580669826631</updated>
       <workItem from="1580669827757" duration="1161000" />
-      <workItem from="1580671000639" duration="1008000" />
+      <workItem from="1580671000639" duration="1374000" />
     </task>
     <task id="LOCAL-00001" summary="first commit First.java">
       <created>1580669910461</created>
@@ -129,7 +129,14 @@
       <option name="project" value="LOCAL" />
       <updated>1580671537569</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="first add by test">
+      <created>1580672013415</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1580672013415</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -153,6 +160,7 @@
     <MESSAGE value="first commit First.java" />
     <MESSAGE value="edit by master" />
     <MESSAGE value="first add by test" />
-    <option name="LAST_COMMIT_MESSAGE" value="first add by test" />
+    <MESSAGE value="first edit by test" />
+    <option name="LAST_COMMIT_MESSAGE" value="first edit by test" />
   </component>
 </project>
