@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="163db9c6-a4b7-435e-8f02-6c7216988360" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../repository_for_learning/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/zuikc/First.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/zuikc/First.java" afterDir="false" />
-    </list>
+    <list default="true" id="ae5f4f9f-7bc6-412d-a3fe-7fd294e9ed7c" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -14,15 +11,15 @@
   <component name="CodeStyleSettingsInfer">
     <option name="done" value="true" />
   </component>
-  <component name="FileTemplateManagerImpl">
-    <option name="RECENT_TEMPLATES">
-      <list>
-        <option value="Class" />
-      </list>
-    </option>
-  </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="D:\ideaPrejectForGit\repository_for_learning\.idea" />
+      </set>
+    </option>
   </component>
   <component name="MavenImportPreferences">
     <option name="generalSettings">
@@ -36,12 +33,11 @@
   <component name="ProjectCodeStyleSettingsMigration">
     <option name="version" value="1" />
   </component>
-  <component name="ProjectId" id="1XGQCtFyLemSIFpd2EFEKtNCbEz" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
-    <ConfirmationsSetting value="2" id="Add" />
-  </component>
+  <component name="ProjectId" id="1XGR6m1Sd5k6MNCCMZn1bjd3eeV" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
-    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="settings.editor.selected.configurable" value="MavenSettings" />
@@ -63,64 +59,50 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="163db9c6-a4b7-435e-8f02-6c7216988360" name="Default Changelist" comment="" />
-      <created>1580669826631</created>
+      <changelist id="ae5f4f9f-7bc6-412d-a3fe-7fd294e9ed7c" name="Default Changelist" comment="" />
+      <created>1580670271479</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1580669826631</updated>
-      <workItem from="1580669827757" duration="1161000" />
-      <workItem from="1580671000639" duration="510000" />
+      <updated>1580670271479</updated>
+      <workItem from="1580670272600" duration="699000" />
+      <workItem from="1580671026190" duration="434000" />
     </task>
-    <task id="LOCAL-00001" summary="first commit First.java">
-      <created>1580669910461</created>
+    <task id="LOCAL-00001" summary="edit by clone">
+      <created>1580670325009</created>
       <option name="number" value="00001" />
       <option name="presentableId" value="LOCAL-00001" />
       <option name="project" value="LOCAL" />
-      <updated>1580669910461</updated>
+      <updated>1580670325009</updated>
     </task>
-    <task id="LOCAL-00002" summary="first commit First.java">
-      <created>1580670012135</created>
+    <task id="LOCAL-00002" summary="edit by clone">
+      <created>1580670518337</created>
       <option name="number" value="00002" />
       <option name="presentableId" value="LOCAL-00002" />
       <option name="project" value="LOCAL" />
-      <updated>1580670012135</updated>
+      <updated>1580670518337</updated>
     </task>
-    <task id="LOCAL-00003" summary="edit by master">
-      <created>1580671010109</created>
+    <task id="LOCAL-00003" summary="edit by clone">
+      <created>1580670746620</created>
       <option name="number" value="00003" />
       <option name="presentableId" value="LOCAL-00003" />
       <option name="project" value="LOCAL" />
-      <updated>1580671010109</updated>
+      <updated>1580670746620</updated>
     </task>
-    <task id="LOCAL-00004" summary="edit by master">
-      <created>1580671074441</created>
+    <task id="LOCAL-00004" summary="edit by clone">
+      <created>1580670905156</created>
       <option name="number" value="00004" />
       <option name="presentableId" value="LOCAL-00004" />
       <option name="project" value="LOCAL" />
-      <updated>1580671074441</updated>
+      <updated>1580670905156</updated>
     </task>
-    <task id="LOCAL-00005" summary="edit by master">
-      <created>1580671123444</created>
+    <task id="LOCAL-00005" summary="edit by clone">
+      <created>1580671204485</created>
       <option name="number" value="00005" />
       <option name="presentableId" value="LOCAL-00005" />
       <option name="project" value="LOCAL" />
-      <updated>1580671123444</updated>
+      <updated>1580671204485</updated>
     </task>
-    <task id="LOCAL-00006" summary="edit by master">
-      <created>1580671184947</created>
-      <option name="number" value="00006" />
-      <option name="presentableId" value="LOCAL-00006" />
-      <option name="project" value="LOCAL" />
-      <updated>1580671184947</updated>
-    </task>
-    <task id="LOCAL-00007" summary="edit by master">
-      <created>1580671421673</created>
-      <option name="number" value="00007" />
-      <option name="presentableId" value="LOCAL-00007" />
-      <option name="project" value="LOCAL" />
-      <updated>1580671421674</updated>
-    </task>
-    <option name="localTasksCounter" value="8" />
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -140,9 +122,7 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="first commit First.java" />
-    <MESSAGE value="edit by master" />
-    <option name="LAST_COMMIT_MESSAGE" value="edit by master" />
+    <MESSAGE value="edit by clone" />
+    <option name="LAST_COMMIT_MESSAGE" value="edit by clone" />
   </component>
 </project>

@@ -9,17 +9,7 @@ package com.zuikc;
  */
 public class First {
     public static void main(String[] args) {
-        System.out.println("test git ...");
-        System.out.println("test git ...");
-        System.out.println("test git ...");
-        System.out.println("test git ...");
-        System.out.println("test git add different...");
-        System.out.println("test git ...");
-        System.out.println("test git ...");
-        System.out.println("test git ...");
-        System.out.println("test git ...edit by clone");
-        System.out.println("test git ...edit by test");
-        System.out.println("test git add by clone...");
+        System.out.println("test git ... add by test");
     }
 
     public void test() {
