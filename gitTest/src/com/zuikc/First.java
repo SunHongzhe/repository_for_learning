@@ -10,6 +10,7 @@ package com.zuikc;
 public class First {
     public static void main(String[] args) {
         System.out.println("test git ... add by test");
+        System.out.println("test git ... add by clone");
     }
 
     public void test() {
