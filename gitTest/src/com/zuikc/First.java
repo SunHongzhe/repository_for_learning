@@ -17,6 +17,7 @@ public class First {
         System.out.println("test git ... second edit by clone");
         System.out.println("test git ... third edit by test");
         System.out.println("test git ... third edit by clone");
+        System.out.println("test git ... fourth edit by clone");
     }
 
     public void test() {
