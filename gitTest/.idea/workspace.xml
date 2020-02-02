@@ -1,9 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="163db9c6-a4b7-435e-8f02-6c7216988360" name="Default Changelist" comment="edit by master">
-      <change afterPath="$PROJECT_DIR$/../repository_for_learning" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../repository_for_learning/gitTest/src/com/zuikc/First.java" beforeDir="false" afterPath="$PROJECT_DIR$/../repository_for_learning/gitTest/src/com/zuikc/First.java" afterDir="false" />
+    <list default="true" id="163db9c6-a4b7-435e-8f02-6c7216988360" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../repository_for_learning" beforeDir="false" afterPath="$PROJECT_DIR$/../repository_for_learning" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -69,6 +68,7 @@
       <option name="presentableId" value="Default" />
       <updated>1580669826631</updated>
       <workItem from="1580669827757" duration="1161000" />
+      <workItem from="1580671000639" duration="378000" />
     </task>
     <task id="LOCAL-00001" summary="first commit First.java">
       <created>1580669910461</created>
@@ -84,7 +84,35 @@
       <option name="project" value="LOCAL" />
       <updated>1580670012135</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="edit by master">
+      <created>1580671010109</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1580671010109</updated>
+    </task>
+    <task id="LOCAL-00004" summary="edit by master">
+      <created>1580671074441</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1580671074441</updated>
+    </task>
+    <task id="LOCAL-00005" summary="edit by master">
+      <created>1580671123444</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1580671123444</updated>
+    </task>
+    <task id="LOCAL-00006" summary="edit by master">
+      <created>1580671184947</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1580671184947</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -95,7 +123,9 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>
