@@ -12,6 +12,7 @@ public class First {
         System.out.println("test git ... add by test");
         System.out.println("test git ... add by clone");
         System.out.println("test git ... edit by test");
+        System.out.println("test git ... edit by clone");
     }
 
     public void test() {
