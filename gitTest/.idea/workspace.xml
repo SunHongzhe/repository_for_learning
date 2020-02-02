@@ -2,8 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="163db9c6-a4b7-435e-8f02-6c7216988360" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../repository_for_learning/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/zuikc/First.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/zuikc/First.java" afterDir="false" />
+      <change afterPath="D:/idea_clone_preject/gitClone" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -44,6 +45,7 @@
     <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="D:/idea_clone_preject" />
     <property name="settings.editor.selected.configurable" value="MavenSettings" />
   </component>
   <component name="RunDashboard">
@@ -69,7 +71,7 @@
       <option name="presentableId" value="Default" />
       <updated>1580669826631</updated>
       <workItem from="1580669827757" duration="1161000" />
-      <workItem from="1580671000639" duration="510000" />
+      <workItem from="1580671000639" duration="1008000" />
     </task>
     <task id="LOCAL-00001" summary="first commit First.java">
       <created>1580669910461</created>
@@ -120,7 +122,14 @@
       <option name="project" value="LOCAL" />
       <updated>1580671421674</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="first add by test">
+      <created>1580671537569</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1580671537569</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -143,6 +152,7 @@
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="first commit First.java" />
     <MESSAGE value="edit by master" />
-    <option name="LAST_COMMIT_MESSAGE" value="edit by master" />
+    <MESSAGE value="first add by test" />
+    <option name="LAST_COMMIT_MESSAGE" value="first add by test" />
   </component>
 </project>
