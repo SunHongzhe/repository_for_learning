@@ -2,12 +2,14 @@
 <project version="4">
   <component name="ExternalStorageConfigurationManager" enabled="true" />
   <component name="FrameworkDetectionExcludesConfiguration">
+    <file type="web" url="file://D:/idea_clone_preject/travel/travel" />
     <file type="web" url="file://$PROJECT_DIR$" />
   </component>
   <component name="MavenProjectsManager">
     <option name="originalFiles">
       <list>
         <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="D:/idea_clone_preject/travel/travel/pom.xml" />
       </list>
     </option>
   </component>
